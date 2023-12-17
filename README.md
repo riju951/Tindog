@@ -15,7 +15,7 @@ Tindog provides a platform where dog owners and their pets can connect with othe
 
 ## Usage
 
-To view the Tindog website, simply open the [Tindog site](https://example.com) in your web browser.
+To view the Tindog website, simply open the [Tindog site](https://riju951.github.io/Tindog/) in your web browser.
 
 ## Installation
 
