@@ -2,6 +2,12 @@
 
 Tindog is a website created as a project inspired by "The Complete 2023 Web Development Bootcamp" by Angela Yu. The site is designed using Bootstrap and aims to facilitate the meeting of new and interesting dogs nearby.
 
+![image](https://github.com/riju951/Tindog/assets/82694741/eadeb7ec-20f4-4229-860f-e77b15ab93a5)
+
+![image](https://github.com/riju951/Tindog/assets/82694741/222bda6b-96a1-45b2-899c-dde3e569b0f8)
+
+![image](https://github.com/riju951/Tindog/assets/82694741/24da69d3-65cf-4a11-8897-8ecf5352537b)
+
 ## Description
 
 Tindog provides a platform where dog owners and their pets can connect with other dogs and their owners in the local area. It offers a fun and interactive interface to explore potential matches for your dog, arrange playdates, and build a social network within the canine community.
